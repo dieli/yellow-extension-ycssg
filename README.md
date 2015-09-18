@@ -32,3 +32,11 @@ How to configure the gallery?
 ------------------------
 Nothing to do. It should work out of the box. If you don't like the color,
 etc. Just check the [ycssg.css](ycssg.css?raw=true) and adapt.
+
+Issues
+------------------------
+- If the lightbox is open and you change the image, the images on the original site do not slide.
+
+Feature requests
+------------------------
+- Keyboard/Swipe support
