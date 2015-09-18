@@ -5,7 +5,7 @@
 // ycssg plugin
 class YellowCSSGallery
 {
-	const Version = "0.5.2";
+	const Version = "0.1.0";
 	var $yellow;			//access to API
 	
 	// Handle initialisation
