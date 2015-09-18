@@ -1,6 +1,6 @@
 Yellow CSS Gallery plugin (ycssg)
 =================
-CSS only Gallery with Lightbox
+CSS only Gallery with Lightbox. The plugin is based on [Fotorama Plugin](https://github.com/datenstrom/yellow-extensions/tree/master/plugins/fotorama).
 
 ![Slideshow](slideshow.jpg?raw=true)
 ![Lightbox](lightbox.jpg?raw=true)
