@@ -40,3 +40,8 @@ Issues
 Feature requests
 ------------------------
 - Keyboard/Swipe support
+
+Contributing
+------------------------
+If you notice something wrong or broken, let me know by opening an issue. Pull requests are very welcome.
+
