@@ -1,7 +1,4 @@
 <?php
-// Copyright (c) 2013-2015 Datenstrom, http://datenstrom.se
-// This file may be used and distributed under the terms of the public license.
-
 // ycssg plugin
 class YellowCSSGallery
 {
